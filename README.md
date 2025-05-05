@@ -2,4 +2,4 @@ this is for a gui im working on in apple shortcuts.
 the gui is for school ipads or macs it contains some fetures that can bypass basic app locking or classroom watching.
 it also has some game websites on it that are quite good stay tuned for updates.
 the link for icloud is here -,
-https://www.icloud.com/shortcuts/1631f54e00c741cc9b8d96187f649abb
+https://www.icloud.com/shortcuts/b879bf14ca7b4163b6f8ffa9dd228de6
