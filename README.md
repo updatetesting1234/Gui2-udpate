@@ -3,3 +3,4 @@ the gui is for school ipads or macs it contains some fetures that can bypass bas
 it also has some game websites on it that are quite good stay tuned for updates.
 the link for icloud is here -,
 https://www.icloud.com/shortcuts/85da66cdb11d4f7f8d1d9c88857b153a
+(3.0)
