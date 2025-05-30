@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live games.txt Viewer</title>
+  <meta charset="UTF-8" />
+  <style>
+    body { font-family: sans-serif; padding: 20px; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>games.txt (Live)</h1>
+  <pre id="output">Loading...</pre>
+
+  <script>
+    function fetchFile() {
+      const url = "https://raw.githubusercontent.com/updatetesting1234/Gui2-udpate/main/games.txt?t=" + Date.now();
+      fetch(url)
+        .then(res => res.text())
+        .then(text => {
+          document.getElementById("output").textContent = text;
+        })
+        .catch(err => {
+          document.getElementById("output").textContent = "Error: " + err;
+        });
+    }
+    fetchFile();
+  </script>
+</body>
+</html>
