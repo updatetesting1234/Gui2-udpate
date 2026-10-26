@@ -6,5 +6,5 @@ https://www.icloud.com/shortcuts/90c7a7756ed1449baf0e72348d901879
 
 link to chatroom -,
 
-[https://www.icloud.com/shortcuts/2fa10ffa692047278c02071980abdc43](https://www.icloud.com/shortcuts/26dca88efecd420c9daaa2442e6486f3)
+https://www.icloud.com/shortcuts/f301420a4d3c43788c83fc24963fcbcb
 & 8.8 8.9
