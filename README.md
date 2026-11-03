@@ -5,5 +5,5 @@ the link for icloud is here -,
 https://www.icloud.com/shortcuts/90c7a7756ed1449baf0e72348d901879
 
 link to chatroom -,
-https://www.icloud.com/shortcuts/153fc508c977479c80c00cfe5382eee6
+https://www.icloud.com/shortcuts/0d5280726005484691bc8e2ef8dc9548
 & 8.8 8.9
